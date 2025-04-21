@@ -1,1 +1,215 @@
-{"name":"Chetan","headerTaglineOne":"Hello 👋","headerTaglineTwo":"I'm Chetan Verma - curious","headerTaglineThree":"designer and devloper","headerTaglineFour":" based in New Delhi, India.","showCursor":true,"showBlog":true,"darkMode":true,"showResume":true,"socials":[{"id":"1","title":"Github","link":"https://github.com/chetanverma16"},{"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/chetanverma7/"},{"id":"3","title":"Twitter","link":"https://twitter.com/realchetanverma"},{"id":"4","title":"Blog","link":"https://blog.chetanverma.com/"},{"id":"5","title":"Email","link":"mailto:hello@chetanverma.com"}],"projects":[{"id":"1","title":"Project One Test","description":"Web Design","imageSrc":"https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"2","title":"Project Two","description":"Web Development","imageSrc":"https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"3","title":"Project Three","description":"Design","imageSrc":"https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"4","title":"Project Four","description":"Marketing","imageSrc":"https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"5","title":"Project Five","description":"Development","imageSrc":"https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"6","title":"Project Six","description":"Design & Development","imageSrc":"https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"}],"services":[{"id":"1","title":"Art Direction","description":"We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."},{"id":"2","title":"Branding","description":"We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."},{"id":"3","title":"Web Design","description":"We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."},{"id":"4","title":"3D Design","description":"We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."}],"aboutpara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.","resume":{"tagline":"👋  I'm a software engineer, product designer.","description":"I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.","experiences":[{"id":"1","dates":"March 2022 - Present","type":"Full Time","position":"Frontend Engineer at X","bullets":"Bullet One, Bullet Two"},{"id":"d495c23b-4f65-479a-9b8a-cfbc1c089725","dates":"July 2020 - March 2022","type":"Full Time","position":"Frontend Engineer at X","bullets":"Worked on the frontend of a React application, Worked on the frontend of a React application"}],"education":{"universityName":"University X","universityDate":"2016-2020","universityPara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"},"languages":["Javascript","HTML5","CSS","Python","Go"],"frameworks":["React","Typescript","NodeJs"],"others":["Figma","AdobeXD","AWS"]}}
+{
+    "name": "Huy Ho",
+    "headerTaglineOne": "Greeting 👋",
+    "headerTaglineTwo": "",
+    "headerTaglineThree": "Product Owner and Senior Sofware Engineer ",
+    "headerTaglineFour": "Based in Ho Chi Minh City, Vietname",
+    "showCursor": false,
+    "showBlog": false,
+    "darkMode": true,
+    "showResume": true,
+    "socials": [
+        {
+            "id": "1",
+            "title": "Github",
+            "link": "https://github.com/huyho09"
+        },
+        {
+            "id": "2",
+            "title": "LinkedIn",
+            "link": "https://www.linkedin.com/in/huyho09/"
+        },
+        {
+            "id": "5",
+            "title": "Email",
+            "link": "mailto:tuanhuy2104@gmail.com"
+        }
+    ],
+    "projects": [
+        {
+            "id": "1",
+            "title": "Merlin for Men - Freelance (Private Repo) ",
+            "description": "A website for selling face wash and gels for men",
+            "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+            "url": "https://merlinformen.netlify.app/home"
+        },
+        {
+            "id": "2",
+            "title": "VISA Cosmos Project (Private Repo) ",
+            "description": "The aim of this project is to create a loyalty concierge application specifically designed for esteemed VISA Credit Card holders. This application will empower them to seamlessly book hotels, spas, flights, and more through our sophisticated software platform.",
+            "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+            "url": "https://www.concierge-asia.visa.com/"
+        },
+        {
+            "id": "3",
+            "title": "Aspire Lifestyle Digital Demo Site (Private Repo)",
+            "description": "The central aim of this project is for the Aspire Lifestyle Digital department to utilize it as a showcase website, catering to their significant and prospective clientele.",
+            "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+            "url": "https://smplus-demosite.aspiredigital.net/"
+        },
+        {
+            "id": "4",
+            "title": "Concierge Portal Digital Site Project (Private Repo) ",
+            "description": "Similar to the VISA COSMOS project, we have developed a loyalty concierge application that empowers the concierge team to arrange bookings for hotels, restaurants, spas, clubs, and more on behalf of their clients",
+            "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+            "url": ""
+        },
+        {
+            "id": "5",
+            "title": "Citibank APAC Digital Site Project (Private Repo) ",
+            "description": "Likewise, the VISA COSMOS project, The aim of this project is to create a loyalty concierge application specifically designed for esteemed VISA Credit Card holders. This application will enable them to seamlessly book hotels, spas, flights, and more through our sophisticated software platform.",
+            "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+            "url": ""
+        },
+        {
+            "id": "6",
+            "title": "HSBC US Digital Site Project (Private Repo)",
+            "description": "Likewise the VISA COSMOS project, The aim of this project is to create a loyalty concierge application specifically designed for esteemed VISA Credit Card holders. This application will empower them to seamlessly book hotels, spas, flights, and more through our sophisticated software platform.",
+            "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
+            "url": "https://www.concierge.hsbc.com/"
+        },
+        {
+            "id": "6c5ac14d-2298-45cf-9b7e-e666b1351d45",
+            "title": "JPMC US Digital Site Project (Private Repo) ",
+            "description": " Likewise the VISA COSMOS project, The aim of this project is to create a loyalty concierge application specifically designed for esteemed VISA Credit Card holders. This application will empower them to seamlessly book hotels, spas, flights, and more through our sophisticated software platform.",
+            "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
+            "url": "https://concierge.jpmorgan.com/en/"
+        },
+        {
+            "id": "d2123055-8a7f-4a53-a053-91a6168b16f1",
+            "title": "Aspire Lifestyle Site Manager Project",
+            "description": "I am in the process of developing a Platform as a Service (PaaS) where clients can utilize our platform to create individualized websites tailored to their business requirements. Our platform is currently being used by prominent banks such as CitiBank, JPMC, and HSBC,... as well as well-known payment networks including VISA and MasterCard.",
+            "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
+            "url": ""
+        },
+        {
+            "id": "d1847504-ccc7-4509-929b-9fd8f467e170",
+            "title": "Bambu Coffee Management System - Freelance (Private Repo) ",
+            "description": "Bambu Coffee is a mobile-based F&B management app for coffee shops. Staff use it to take orders and check in/out with NFC cards, while admins manage bills, timesheets, and menus through a simple backend interface—boosting efficiency and customer experience.",
+            "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
+            "url": "https://bambu-prod-site.somee.com"
+        },
+        {
+            "id": "135374ea-bc5a-455c-9bfc-b795f4446fbb",
+            "title": "Bosch Rexroth Drive And Control Project: Online Customer Support",
+            "description": "Live Assist is a digital communication interface with various contact options for immediate support. It has touchpoints for customers to Rexroth, providing automatic routing to the right solution group John Doe - Page 2 of 3 or expert. Live Assist creates transparency of communication through clear reporting and is a permanent touchpoint on the website.",
+            "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
+            "url": "https://www.boschrexroth.com/en/dc/"
+        },
+        {
+            "id": "ba05d1e4-aea4-49cd-b5de-91da4a3baf9c",
+            "title": "Personal Project: User Story Workflow Diagram Generator",
+            "description": "This project is a web application that allows users to create user stories and workflows following a structured format. The application simplifies the process of generating diagrams for user stories by leveraging GPT-4o to produce PlantUML code and visual representations.",
+            "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
+            "url": "https://github.com/huyho09/user-story-2-diagram"
+        },
+        {
+            "id": "cf90320d-2b6f-4c97-a189-4a6a10c43746",
+            "title": "Personal Project: DocGen",
+            "description": "DocGen is a web application that generates Sphinx-compatible HTML documentation from GitHub repos- itory source code. It clones a specified repository using nodegit, processes its files in parallel with worker threads to create a source code text file, chunks the content for GPT-4o analysis, and converts the resulting RST into HTML using sphinx-build. The frontend, built with Vue.js, provides a simple interface to input a GitHub repo URL and download the generated documentation.",
+            "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
+            "url": "https://github.com/huyho09/doc-as-code-sphinx"
+        },
+        {
+            "id": "c15d4e61-a7cd-408b-bd71-fdf09b977c3a",
+            "title": "Personal Project: Merlin Chatbot",
+            "description": "This is my personal GenAI chatbot project. The goal of this project is to recreate a ChatGPT-like experience as a foundation for future initiatives. Merlin, the chatbot, leverages advanced prompting techniques to analyze documentation, utilize device geolocation (latitude and longitude) to rec- ommend restaurants, generate code (CodeGen), and support academic research activities.",
+            "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
+            "url": "https://github.com/huyho09/Merlin-Bot"
+        },
+        {
+            "id": "1fcc571b-90a1-463d-8f4c-f94b86307068",
+            "title": "Douce - Freelance (Private Repo)",
+            "description": "This is an e-commerce website designed for selling perfumes. The platform features a user-friendly client interface where customers can browse, search, and purchase various perfumes. It also includes a secure admin dashboard that allows administrators to manage product listings, track orders, handle customer inquiries, and update inventory efficiently.",
+            "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
+            "url": "https://douce.vn"
+        }
+    ],
+    "services": [
+        {
+            "id": "1",
+            "title": "Product Owner",
+            "description": "responsible for maximizing the value of the product by managing the product backlog, defining clear user stories, and ensuring alignment between business goals and development work. They collaborate closely with stakeholders and the Scrum Team to deliver high-impact, customer-focused solutions."
+        },
+        {
+            "id": "2",
+            "title": "Senior Software Engineer",
+            "description": ".NET Core Developer, DevOps and Automation Scripting"
+        }
+    ],
+    "aboutpara": "With a strong web app and mobile development background, I bring valuable expertise as a Software Developer. Additionally, I also have over 2 years of experience in Business Analysis. Recently, I obtained certifications as a Professional Scrum Master and Professional Scrum Product Owner, showcasing my commitment to professional growth. However, I firmly acknowledge that knowledge knows no bounds, whereas our human capabilities are limited. Therefore, I embrace the idea that there is always room for further development and advancement. I am passionate about expanding my proficiency in emerging technologies and continuously improving my skill set. My primary objective is to tackle any challenge that comes my way and utilize my abilities to create impactful and practical applications. I am dedicated to pushing the boundaries and striving for excellence in my work.",
+    "resume": {
+        "tagline": "👋  I'm a software engineer and product owner.",
+        "description": "With a background in web and mobile development and over 2 years of experience in Business Analysis, I bring a well-rounded perspective as a Software Developer. I’m certified as a Professional Scrum Master and Product Owner, and I'm passionate about continuous learning and emerging technologies. My goal is to solve real-world challenges by building impactful, high-quality applications.",
+        "experiences": [
+            {
+                "id": "1",
+                "dates": "Nov 2023 – Present",
+                "type": "Full Time",
+                "position": "Product Owner and Senior Software Engineer at Bosch Global Software Technologies (BGSV)",
+                "bullets": "BBosch Rexroth Online Customer Support - Live Assist Product Owner and DevOps"
+            },
+            {
+                "id": "2",
+                "dates": "June 2021 – Aug 2023",
+                "type": "Full Time",
+                "position": ".NET Software Developer and Business Analyst at S3 Corporation",
+                "bullets": "Middle level .NET Developer, Scrum Master, Product Owner, Business Analysis"
+            },
+            {
+                "id": "3",
+                "dates": "Apr 2021 – June 2021",
+                "type": "Full Time",
+                "position": "Internship Software Engineer at Capgemini",
+                "bullets": "Java Spring Boot Internship Software Engineer"
+            }
+        ],
+        "education": {
+            "universityName": "Royal Melbourne Institute of Technology(RMIT) University",
+            "universityDate": "2018-2021",
+            "universityPara": "Bachelor of IT, major in Software Engineering"
+        },
+        "languages": [
+            "Javascript/Typescript",
+            "HTML5",
+            "CSS",
+            "Python",
+            "C#",
+            "Java",
+            "SQL",
+            "Non-SQL",
+            "PHP"
+        ],
+        "frameworks": [
+            "VueJS",
+            "Typescript",
+            "NodeJs",
+            "Flask",
+            "Django",
+            ".NET Core",
+            ".NET frameworks",
+            ".NET MVC",
+            "WordPress",
+            "Selenium/Python"
+        ],
+        "others": [
+            "Git",
+            "Jira",
+            "Bitbucket",
+            "Confluence",
+            "Azure Cloud",
+            "Azure DevOps",
+            "Github Action(CI/CD)",
+            "Docker",
+            "OpenAI SDK",
+            "OpenAI API",
+            "Microsoft SQL Server",
+            "Prompting Techniques",
+            "English - Documentation and Research",
+            "English - Professional working proficiency",
+            "Agile Methodology",
+            "Scrum Framework"
+
+        ]
+    }
+}
